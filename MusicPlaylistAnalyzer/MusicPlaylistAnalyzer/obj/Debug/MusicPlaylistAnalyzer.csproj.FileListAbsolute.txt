@@ -1,0 +1,7 @@
+C:\Users\MainBattleStation\source\repos\CSClasses\IST2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe.config
+C:\Users\MainBattleStation\source\repos\CSClasses\IST2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe
+C:\Users\MainBattleStation\source\repos\CSClasses\IST2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.pdb
+C:\Users\MainBattleStation\source\repos\CSClasses\IST2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\MainBattleStation\source\repos\CSClasses\IST2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\MainBattleStation\source\repos\CSClasses\IST2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.exe
+C:\Users\MainBattleStation\source\repos\CSClasses\IST2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.pdb
